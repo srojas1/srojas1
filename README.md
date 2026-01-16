@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Beon Tech**
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **PHP and Wordpress**
 
 - 📫 How to reach me **samuelro444@gmail.com**
